@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "public_utility_economics",
+    "title": "Public Utility Economics EC 437/537",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "The official description of the course is:\n\nExamines the rationale, economic principles, and institutions of historic economic regulation. Contemporary theory of the firm and regulatory practice with a focus on energy are analyzed. Prerequisites: Ec 311 or Ec 415.\n\nThis is a companion course to EC 438/538 which will address the consequences of energy use and production, and EC 428/538, which is mainly focused on program evaluation, including energy conservation programs.\n\n\nThe undergraduate section has microeconomic theory, EC 311, or the calculus-based version, EC 415, listed as prerequisites. The graduate section requires only graduate standing."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,75 @@
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2\n\n\nCan this fix things."
+  },
+  {
+    "objectID": "course-team.html",
+    "href": "course-team.html",
+    "title": "Teaching team",
+    "section": "",
+    "text": "Dr. James “Jamie” Woods (he/his) is Assistant Professor at the Department of Economics."
+  },
+  {
+    "objectID": "course-team.html#teaching-assistants",
+    "href": "course-team.html#teaching-assistants",
+    "title": "Teaching team",
+    "section": "Teaching assistants",
+    "text": "Teaching assistants"
+  },
+  {
+    "objectID": "course-links.html",
+    "href": "course-links.html",
+    "title": "Useful links",
+    "section": "",
+    "text": "Canvas\n🔗 on PSU Canvas"
+  },
+  {
+    "objectID": "course-support.html",
+    "href": "course-support.html",
+    "title": "Course support",
+    "section": "",
+    "text": "Most of you will need help at some point and we want to make sure you can identify when that is without getting too frustrated and feel comfortable seeking help."
+  },
+  {
+    "objectID": "course-support.html#lectures-and-labs",
+    "href": "course-support.html#lectures-and-labs",
+    "title": "Course support",
+    "section": "Lectures and labs",
+    "text": "Lectures and labs\nIf you have a question during lecture or lab, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone."
+  },
+  {
+    "objectID": "course-support.html#office-hours",
+    "href": "course-support.html#office-hours",
+    "title": "Course support",
+    "section": "Office hours",
+    "text": "Office hours\nThe teaching team is here to help you be successful in the course. You are encouraged to attend office hours during the times posted on the home page to ask questions about the course content and assignments. A lot of questions are most effectively answered in-person, so office hours are a valuable resource. I encourage each and every one of you to take advantage of this resource! Make a pledge to stop by office hours at least once during the first three weeks of class. If you truly have no questions to ask, just stop by and say hi and introduce yourself. You can find a list of everyone’s office hours here."
+  },
+  {
+    "objectID": "course-support.html#discussion-forum",
+    "href": "course-support.html#discussion-forum",
+    "title": "Course support",
+    "section": "Discussion forum",
+    "text": "Discussion forum\nHave a question that can’t wait for office hours? Prefer to write out your question in detail rather than asking in person? The online discussion forum is the best venue for these! We will use Slack as the online discussion forum. There is a chance another student has already asked a similar question, so please check the other posts on Ed Discussion before adding a new question. If you know the answer to a question that is posted, I encourage you to respond!"
+  },
+  {
+    "objectID": "course-support.html#email",
+    "href": "course-support.html#email",
+    "title": "Course support",
+    "section": "Email",
+    "text": "Email\nPlease refrain from emailing any course content questions (those should go Slack, and only use email for questions about personal matters that may not be appropriate for the public course forum (e.g., illness, accommodations, etc.).\nFor such matters, you may email Dr. Woods at woodsj@pdx.edu.\nIf there is a question that’s not appropriate for the public forum, you are welcome to email me directly. If you email me, please include “Public Utility” in the subject line. Barring extenuating circumstances, I will respond to emails within 48 hours Monday - Friday. Response time may be slower for emails sent Friday evening - Sunday."
+  },
+  {
+    "objectID": "course-support.html#academic-support",
+    "href": "course-support.html#academic-support",
+    "title": "Course support",
+    "section": "Academic support",
+    "text": "Academic support\nNote that we will be making minimal use of Canvas in this course (primarily as a way of submitting assignments and grade book)."
+  },
+  {
+    "objectID": "course_overview.html",
+    "href": "course_overview.html",
+    "title": "Public Utility Economics: EC 437/537",
+    "section": "",
+    "text": "This is a companion course to EC 438/538 which will address the consequences of energy use and production, and EC 428/538, which is mainly focused on program evaluation, including energy conservation programs."
   }
 ]

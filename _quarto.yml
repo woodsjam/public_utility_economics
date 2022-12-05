@@ -2,18 +2,57 @@ project:
   type: website
 
 website:
-  title: "public_utility_economics"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  page-navigation: true
+  title: "Public Utility Economics"
+  description: "Homepage for Public Utility Economics at Portland State University, Winter 2023."
+  site-url: "https://public_utility_economics.github.io"
+  
+  
+  repo-url: https://github.com/woodsjam/public_utility_economics
+  repo-actions: [edit, issue]
+
+  open-graph: true
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2023, Jamie Woods"
+  
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents: 
+      - section: "Course information"
+        contents:
+          - href: course-overview.qmd
+            text: Overview
+          - href: course-syllabus.qmd
+            text: Syllabus
+          - href: course-support.qmd
+            text: Support
+          - href: course-team.qmd
+            text: Teaching team
+          - href: index.qmd
+            text: Schedule
+          - href: course-links.qmd
+            text: Useful links
+          - href: course-faq.qmd
+            text: FAQ
+      - section: "Slides"
+      - section: "Useful Links"
+
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
     toc: true
 
+freeze: auto
+ 
 editor: visual
 

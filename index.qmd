@@ -1,11 +1,15 @@
 ---
-title: "public_utility_economics"
+title: "Public Utility Economics EC 437/537"
 ---
 
-This is a Quarto website.
+# Course Description
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The official description of the course is:
 
-```{r}
-1 + 1
-```
+> Examines the rationale, economic principles, and institutions of historic economic regulation. Contemporary theory of the firm and regulatory practice with a focus on energy are analyzed. Prerequisites: Ec 311 or Ec 415. 
+
+This is a companion course to EC 438/538 which will address the consequences of energy use and production, and EC 428/538, which is mainly focused on program evaluation, including energy conservation programs.
+
+## Prerequisites
+
+The undergraduate section has microeconomic theory, EC 311, or the calculus-based version, EC 415, listed as prerequisites.  The graduate section requires only graduate standing.

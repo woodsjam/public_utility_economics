@@ -23,3 +23,19 @@ execute:
 # Welcome
 
 ## Meet the professor
+
+## Meet the TA
+
+## Check out Slack
+
+# Public Utility Economics
+
+## What is it?
+
+## Course FAQ
+
+## Course Learning Objectives
+
+## Current Issues
+
+# Course Overview

@@ -1,0 +1,25 @@
+---
+title: "Welcome Public Utility Economics!"
+subtitle: "EC 37 - Winter 2023"
+author: "Jamie Woods"
+footer:  "[https://woodsjam.github.io/public_utility_economics/](https://woodsjam.github.io/public_utility_economics/)"
+format: 
+  revealjs: 
+    theme: slides.scss
+    multiplex: true
+    transition: fade
+    slide-number: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+```{r}
+#| include: false
+
+```
+
+
+# Welcome
+
+## Meet the professor
